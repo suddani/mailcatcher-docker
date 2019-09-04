@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+mailcatcher -f --smtp-ip $SMTP_IP --smtp-port $SMTP_PORT --http-ip $HTTP_IP --http-port $HTTP_PORT --http-path $HTTP_PATH
